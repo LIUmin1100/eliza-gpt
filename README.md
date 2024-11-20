@@ -123,3 +123,9 @@ Below is the default configuration for Eliza:
       "resourceful"
   ]
 }
+## Roadmap
+
+### Future Plans
+1. **Support for Multiple TG Bots**: Enable interaction and coordination among multiple Telegram bots for more complex workflows.
+2. **Plugin Development**: Introduce support for plugins, including image analysis and parsing capabilities, to extend the bot's functionality.
+3. **Enhanced Customization**: Offer deeper customization options for user-specific needs.
